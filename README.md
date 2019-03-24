@@ -1,5 +1,5 @@
-# fancyIndex-NGINX
-A fancy file Index for NGINX
+# Fancy Index for Nginx
+A fancy file Index for [NGINX](https://www.nginx.com/)
 
 * copy main.xslt to a directory 
 * modify your nginx configuration :
