@@ -233,7 +233,7 @@
 
         <footer class="footer">
           <div class="container">
-            <span class="text-muted">(c) Julien Mousqueton</span>
+            <span class="text-muted">(c) Julien</span>
           </div>
         </footer>
       </body>
