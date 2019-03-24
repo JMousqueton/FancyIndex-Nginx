@@ -1,8 +1,8 @@
 # fancyIndex-NGINX
 A fancy file Index for NGINX
 
-copy main.xslt to a directory 
-modify your nginx configuration :
+* copy main.xslt to a directory 
+* modify your nginx configuration :
 
 ```
 location / {
